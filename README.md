@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Zahra Salimzadeh 👋
 
-<!--
-**zahrasalimzadeh/zahrasalimzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🛠 Currently learning: **Python**
+- 💻 Environment: **VS Code** on Windows
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Language:** Python 🐍
+- **Operating System:** Windows 💻
+- **Tools:** VS Code, Git, GitHub
+- **Messenger:** GitHub
+
+---
+
+### 📈 My Projects
+- **[Task Management Project](https://github.com/zahrasalimzadeh/Task-Management-Project):** A Python-based system to manage and track employee tasks with different statuses.
+
+---
+
+### 📬 Connect with Me
+- **Email:** zahrasalimzadeh7@gmail.com
+- **GitHub:** [zahrasalimzadeh](https://github.com/zahrasalimzadeh)
